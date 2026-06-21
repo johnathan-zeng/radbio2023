@@ -1,0 +1,41 @@
+{
+  "questionCount": 337,
+  "sectionCount": 32,
+  "keyQuestionCount": 337,
+  "pdfExplanationCount": 337,
+  "issueCount": 0,
+  "correctionCount": 4,
+  "corrections": [
+    {
+      "type": "renumbered_duplicate_pdf_answer",
+      "from": "III-17",
+      "to": "III-18",
+      "page": 29
+    },
+    {
+      "type": "renumbered_duplicate_pdf_answer",
+      "from": "XXVI-11",
+      "to": "XXVI-12",
+      "page": 221
+    },
+    {
+      "type": "added_figure_choices",
+      "id": "XIX-7",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "note": "Choices are graphical plan labels on the rendered PDF page."
+    },
+    {
+      "type": "key_overrides_pdf_answer",
+      "id": "XXXI-2",
+      "pdfAnswer": "D",
+      "keyAnswer": "C",
+      "reason": "The explanation text identifies thymidine, which is choice C; the PDF answer label is inconsistent."
+    }
+  ],
+  "issues": []
+}
